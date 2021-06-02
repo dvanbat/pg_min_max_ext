@@ -1,0 +1,4 @@
+comment = 'min_max'
+default_version = '0.1'
+module_pathname = '$libdir/min_max'
+relocatable = true
